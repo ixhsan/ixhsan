@@ -1,4 +1,7 @@
 ### Hi there 👋
+![header][https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Welcome%20to%20my%20GitHub%20page!&desc=Feel%20free%20to%20explore%20my%20repositories%20and%20projects.&fontColor=000&fontSize=50]
+
+🌱 I’m currently learning Typescript.
 
 <!--
 **ixhsan/ixhsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
